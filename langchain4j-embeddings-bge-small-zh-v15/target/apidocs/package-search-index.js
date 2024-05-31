@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"dev.langchain4j.model.embedding.bge.small.zh.v15"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

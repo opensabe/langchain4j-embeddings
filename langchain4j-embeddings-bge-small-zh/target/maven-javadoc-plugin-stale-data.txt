@@ -1,0 +1,63 @@
+@options
+@packages
+-classpath
+'/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings/target/langchain4j-embeddings-0.32.0.1.jar:/Users/houjianpo/.m2/repository/io/github/opensabe-tech/langchain4j-core/0.32.0.1/langchain4j-core-0.32.0.1.jar:/Users/houjianpo/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/houjianpo/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar:/Users/houjianpo/.m2/repository/com/microsoft/onnxruntime/onnxruntime/1.17.1/onnxruntime-1.17.1.jar:/Users/houjianpo/.m2/repository/ai/djl/api/0.26.0/api-0.26.0.jar:/Users/houjianpo/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar:/Users/houjianpo/.m2/repository/org/apache/commons/commons-compress/1.26.1/commons-compress-1.26.1.jar:/Users/houjianpo/.m2/repository/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.jar:/Users/houjianpo/.m2/repository/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar:/Users/houjianpo/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/Users/houjianpo/.m2/repository/ai/djl/huggingface/tokenizers/0.26.0/tokenizers-0.26.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'langchain4j-embeddings-bge-small-zh 0.32.0.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/javadoc-bundle-options'
+-linkoffline
+'https://github.com/langchain4j/langchain4j-embeddings/langchain4j-embeddings/apidocs' '/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings/target/apidocs'
+-use
+-version
+-windowtitle
+'langchain4j-embeddings-bge-small-zh 0.32.0.1 API'
+dev.langchain4j.model.embedding
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings/target/langchain4j-embeddings-0.32.0.1.jar = 1717127852649
+/Users/houjianpo/.m2/repository/io/github/opensabe-tech/langchain4j-core/0.32.0.1/langchain4j-core-0.32.0.1.jar = 1717121705861
+/Users/houjianpo/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar = 1687867294299
+/Users/houjianpo/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar = 1680249087172
+/Users/houjianpo/.m2/repository/com/microsoft/onnxruntime/onnxruntime/1.17.1/onnxruntime-1.17.1.jar = 1711437600065
+/Users/houjianpo/.m2/repository/ai/djl/api/0.26.0/api-0.26.0.jar = 1711437549391
+/Users/houjianpo/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar = 1701842972107
+/Users/houjianpo/.m2/repository/org/apache/commons/commons-compress/1.26.1/commons-compress-1.26.1.jar = 1711437548037
+/Users/houjianpo/.m2/repository/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.jar = 1707060667000
+/Users/houjianpo/.m2/repository/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar = 1711437547789
+/Users/houjianpo/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar = 1700319806000
+/Users/houjianpo/.m2/repository/ai/djl/huggingface/tokenizers/0.26.0/tokenizers-0.26.0.jar = 1711437563077
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/src/main/java = 1717127336758
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/tag-search-index.js = 1717127859200
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/overview-tree.html = 1717127859193
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/module-search-index.js = 1717127859200
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/index.html = 1717127859205
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/package-search-index.js = 1717127859200
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/link.svg = 1717127859212
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/index-all.html = 1717127859203
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/allpackages-index.html = 1717127859199
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/member-search-index.js = 1717127859200
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/copy.svg = 1717127859212
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/script.js = 1717127859212
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/stylesheet.css = 1717127859211
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/search-page.js = 1717127859213
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/help-doc.html = 1717127859210
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/element-list = 1717127859182
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/search.html = 1717127859204
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/allclasses-index.html = 1717127859198
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/type-search-index.js = 1717127859200
+/Users/houjianpo/code/worldsaber/opensabe/langchain4j-embeddings/langchain4j-embeddings-bge-small-zh/target/apidocs/search.js = 1717127859213
