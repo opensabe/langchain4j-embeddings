@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"dev.langchain4j.model.embedding"},{"l":"dev.langchain4j.model.embedding.internal"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"dev.langchain4j.model.embedding","l":"AllMiniLmL6V2QuantizedEmbeddingModel"},{"p":"dev.langchain4j.model.embedding","l":"AllMiniLmL6V2QuantizedEmbeddingModelFactory"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();

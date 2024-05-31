@@ -1,9 +1,0 @@
-dev/langchain4j/model/embedding/PoolingMode.class
-dev/langchain4j/model/embedding/internal/VectorUtils.class
-dev/langchain4j/model/embedding/HuggingFaceTokenizer.class
-dev/langchain4j/model/embedding/OnnxBertBiEncoder$EmbeddingAndTokenCount.class
-dev/langchain4j/model/embedding/BertTokenizer.class
-dev/langchain4j/model/embedding/AbstractInProcessEmbeddingModel.class
-dev/langchain4j/model/embedding/OnnxEmbeddingModel.class
-dev/langchain4j/model/embedding/OnnxBertBiEncoder$1.class
-dev/langchain4j/model/embedding/OnnxBertBiEncoder.class
